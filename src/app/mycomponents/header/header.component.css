@@ -1,0 +1,14 @@
+.purple{
+    background-color: #8C54A1!important;
+}
+.yellow-text{
+  color: #fafbd4 !important;
+}
+.btn{
+    /* background-color:#fafbd4;*/
+    border-color: #fafbd4;
+}
+.btn:hover{
+    background-color: #fafbd4;
+    color: #8C54A1 !important;
+}
